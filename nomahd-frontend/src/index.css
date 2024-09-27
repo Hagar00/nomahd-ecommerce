@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: gainsboro;
+ 
+}
+.transition-transform {
+  transition: transform 0.3s ease-in-out;
+}
